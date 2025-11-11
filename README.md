@@ -63,4 +63,4 @@ Modify the `for` loop parameters and specify a local save directory before execu
 ## Contact
 For questions or additional information, please contact the author:  
 **Shangchen Song**  
-Email: [shangchen.song@ufl.edu]
+Email: [s.song@ufl.edu]
